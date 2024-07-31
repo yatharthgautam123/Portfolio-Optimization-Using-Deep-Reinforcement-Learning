@@ -70,5 +70,3 @@ The mean sharpe ratio obtained for the optimizing agent in case of crypto curren
 
 [6] Zhengyao Jiang, Dixing Xu, and Jinjun Liang A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.
 Xi’an Jiaotong-Liverpool University, Suzhou, SU 215123, P. R. China.
-
-[7] Code reference: https://github.com/selimamrouni/Deep-Portfolio-Management-Reinforcement-Learning
