@@ -1,6 +1,4 @@
 # Portfolio Optimization using Deep Reinforcement Learning
-### Bishishta Mukherjee, Konanki Sai Charan, Manvita Markala, Romil Rathi
-### November 4, 2019
 
 # Summary
 
